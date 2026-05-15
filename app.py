@@ -28,7 +28,7 @@ st.markdown("""
     .stApp {
         background-color: #0d1526;
         color: #cbd5e1;
-        font-family: 'Inter', sans-serif;
+        font-family: 'Inter', poppins;
     }
 
     /* Hero section headers */
