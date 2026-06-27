@@ -4,7 +4,7 @@ A production-ready ML system that predicts Indian domestic flight fares, compare
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure--
 
 ```
 flight_project/
